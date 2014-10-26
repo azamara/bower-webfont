@@ -10,7 +10,6 @@
     "nanum-gothic"
   ],
   "main": [
-    "nanum-gothic/styles.css",
     "nanum-gothic/NanumGothic-Bold.eot",
     "nanum-gothic/NanumGothic-Bold.ttf",
     "nanum-gothic/NanumGothic-Bold.woff",
