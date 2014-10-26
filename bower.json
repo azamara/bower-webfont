@@ -1,0 +1,20 @@
+{
+  "name": "bower-webfont",
+  "version": "0.0.0",
+  "authors": [
+    "William Kim <azamara@me.com>"
+  ],
+  "description": "Webfont repositories",
+  "keywords": [
+    "webfont",
+    "nanum-gothic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
